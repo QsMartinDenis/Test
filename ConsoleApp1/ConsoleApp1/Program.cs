@@ -4,3 +4,4 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 
 Func<int,int> func = (int x) => x;
+Func<int,int> func2 = (int x) => x;
